@@ -20,9 +20,13 @@
 
 ## [license](#license)
 
-# Project name Keeping Your Money On Your Mind
+# Project name:
 
-# Project Creator Sallam Thabet
+Keeping Your Money On Your Mind
+
+# Project Creator:
+
+Sallam Thabet
 
 # Description
 
